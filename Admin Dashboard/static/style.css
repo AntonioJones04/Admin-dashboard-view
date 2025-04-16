@@ -1,0 +1,41 @@
+/* General Styles */
+body {
+    background-color: #ffffff;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header Styling */
+h1 {
+    color: #252924;
+    margin-bottom: 1rem;
+}
+
+
+.card-header {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+
+.btn {
+    font-weight: 500;
+}
+
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+/* Buttons */
+.view-switch {
+    background-color: #1d8d01; 
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+
+.view-switch:hover {
+    background-color: #1d8d01;
+    color: #fff;
+}
